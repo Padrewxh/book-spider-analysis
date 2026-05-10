@@ -16,7 +16,7 @@ MYSQL_CONFIG = {
     "host": "localhost",
     "port": 3306,
     "user": "root",
-    "password": "123456",
+    "password": "root",
     "database": "book_spider_db",
     "charset": "utf8mb4",
 }

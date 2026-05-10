@@ -8,7 +8,7 @@ spring:
     # 修改为你本机 MySQL 用户名
     username: root
     # 修改为你本机 MySQL 密码
-    password: wangteng20051215
+    password: root
 
 mybatis-plus:
   configuration:
