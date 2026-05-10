@@ -1,0 +1,1 @@
+-cp target\classes com.example.bookspider.BookSpiderApplication
